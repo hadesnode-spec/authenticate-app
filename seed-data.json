@@ -1,0 +1,267 @@
+{
+ "suppliers": [
+  {
+   "company": "Sundaram Mobile Distributors",
+   "contact_name": "Karthik Subramanian",
+   "email": "sales@sundaram-mobiles.example.com",
+   "phone": "+91 98400 10001",
+   "address": "12, Ritchie Street, Mount Road",
+   "city": "Chennai",
+   "gst": "33AABCS1001A1Z1"
+  },
+  {
+   "company": "Kovai Computer Wholesale",
+   "contact_name": "Lakshmi Narayanan",
+   "email": "orders@kovai-computers.example.com",
+   "phone": "+91 98420 20002",
+   "address": "45, Oppanakara Street",
+   "city": "Coimbatore",
+   "gst": "33AABCK2002B1Z2"
+  },
+  {
+   "company": "Madurai Audio Hub",
+   "contact_name": "Meenakshi Rajan",
+   "email": "hello@madurai-audio.example.com",
+   "phone": "+91 98430 30003",
+   "address": "7, West Masi Street",
+   "city": "Madurai",
+   "gst": "33AABCM3003C1Z3"
+  },
+  {
+   "company": "Salem Smart Living",
+   "contact_name": "Mohammed Imran",
+   "email": "care@salem-smartliving.example.com",
+   "phone": "+91 98650 40004",
+   "address": "88, Omalur Main Road",
+   "city": "Salem",
+   "gst": "33AABCS4004D1Z4"
+  },
+  {
+   "company": "Trichy Accessories Depot",
+   "contact_name": "Selvam Murugan",
+   "email": "enquiry@trichy-accessories.example.com",
+   "phone": "+91 98940 50005",
+   "address": "23, Bharathidasan Salai",
+   "city": "Tiruchirappalli",
+   "gst": "33AABCT5005E1Z5"
+  }
+ ],
+ "products": [
+  {
+   "name": "Smartphone 6.5in 128GB",
+   "sku": "MOB-001",
+   "category": "Mobiles & Tablets",
+   "quantity": 24,
+   "min_stock": 8,
+   "unit_cost": 11999,
+   "supplier": "Sundaram Mobile Distributors"
+  },
+  {
+   "name": "Smartphone 6.7in 256GB 5G",
+   "sku": "MOB-002",
+   "category": "Mobiles & Tablets",
+   "quantity": 10,
+   "min_stock": 5,
+   "unit_cost": 21999,
+   "supplier": "Sundaram Mobile Distributors"
+  },
+  {
+   "name": "Tablet 10.1in 64GB",
+   "sku": "MOB-003",
+   "category": "Mobiles & Tablets",
+   "quantity": 14,
+   "min_stock": 5,
+   "unit_cost": 10499,
+   "supplier": "Sundaram Mobile Distributors"
+  },
+  {
+   "name": "Feature Phone Dual SIM",
+   "sku": "MOB-004",
+   "category": "Mobiles & Tablets",
+   "quantity": 40,
+   "min_stock": 15,
+   "unit_cost": 1399,
+   "supplier": "Sundaram Mobile Distributors"
+  },
+  {
+   "name": "Laptop 15.6in Core i5 8GB 512GB",
+   "sku": "LAP-001",
+   "category": "Laptops & PCs",
+   "quantity": 9,
+   "min_stock": 4,
+   "unit_cost": 41999,
+   "supplier": "Kovai Computer Wholesale"
+  },
+  {
+   "name": "Wireless Mouse",
+   "sku": "LAP-002",
+   "category": "Laptops & PCs",
+   "quantity": 42,
+   "min_stock": 12,
+   "unit_cost": 449,
+   "supplier": "Kovai Computer Wholesale"
+  },
+  {
+   "name": "Mechanical Keyboard",
+   "sku": "LAP-003",
+   "category": "Laptops & PCs",
+   "quantity": 18,
+   "min_stock": 8,
+   "unit_cost": 1899,
+   "supplier": "Kovai Computer Wholesale"
+  },
+  {
+   "name": "Monitor 24in Full HD",
+   "sku": "LAP-004",
+   "category": "Laptops & PCs",
+   "quantity": 11,
+   "min_stock": 5,
+   "unit_cost": 8499,
+   "supplier": "Kovai Computer Wholesale"
+  },
+  {
+   "name": "Portable SSD 1TB",
+   "sku": "LAP-005",
+   "category": "Laptops & PCs",
+   "quantity": 16,
+   "min_stock": 6,
+   "unit_cost": 6299,
+   "supplier": "Kovai Computer Wholesale"
+  },
+  {
+   "name": "Webcam 1080p",
+   "sku": "LAP-006",
+   "category": "Laptops & PCs",
+   "quantity": 3,
+   "min_stock": 8,
+   "unit_cost": 1599,
+   "supplier": "Kovai Computer Wholesale"
+  },
+  {
+   "name": "Bluetooth Headphones",
+   "sku": "AUD-001",
+   "category": "Audio",
+   "quantity": 30,
+   "min_stock": 10,
+   "unit_cost": 1799,
+   "supplier": "Madurai Audio Hub"
+  },
+  {
+   "name": "True Wireless Earbuds",
+   "sku": "AUD-002",
+   "category": "Audio",
+   "quantity": 55,
+   "min_stock": 20,
+   "unit_cost": 1299,
+   "supplier": "Madurai Audio Hub"
+  },
+  {
+   "name": "Bluetooth Speaker 20W",
+   "sku": "AUD-003",
+   "category": "Audio",
+   "quantity": 20,
+   "min_stock": 8,
+   "unit_cost": 1999,
+   "supplier": "Madurai Audio Hub"
+  },
+  {
+   "name": "Soundbar 2.1 Channel",
+   "sku": "AUD-004",
+   "category": "Audio",
+   "quantity": 7,
+   "min_stock": 4,
+   "unit_cost": 6999,
+   "supplier": "Madurai Audio Hub"
+  },
+  {
+   "name": "Wired Earphones with Mic",
+   "sku": "AUD-005",
+   "category": "Audio",
+   "quantity": 0,
+   "min_stock": 25,
+   "unit_cost": 199,
+   "supplier": "Madurai Audio Hub"
+  },
+  {
+   "name": "Smart LED Bulb Wi-Fi 9W",
+   "sku": "SMH-001",
+   "category": "Smart Home",
+   "quantity": 60,
+   "min_stock": 20,
+   "unit_cost": 449,
+   "supplier": "Salem Smart Living"
+  },
+  {
+   "name": "Smart Plug Wi-Fi 16A",
+   "sku": "SMH-002",
+   "category": "Smart Home",
+   "quantity": 35,
+   "min_stock": 12,
+   "unit_cost": 699,
+   "supplier": "Salem Smart Living"
+  },
+  {
+   "name": "Wi-Fi Security Camera 2MP",
+   "sku": "SMH-003",
+   "category": "Smart Home",
+   "quantity": 13,
+   "min_stock": 6,
+   "unit_cost": 2199,
+   "supplier": "Salem Smart Living"
+  },
+  {
+   "name": "Wi-Fi 6 Router AX1800",
+   "sku": "SMH-004",
+   "category": "Smart Home",
+   "quantity": 8,
+   "min_stock": 5,
+   "unit_cost": 3599,
+   "supplier": "Salem Smart Living"
+  },
+  {
+   "name": "Fast Charger 33W",
+   "sku": "ACC-001",
+   "category": "Accessories",
+   "quantity": 70,
+   "min_stock": 25,
+   "unit_cost": 599,
+   "supplier": "Trichy Accessories Depot"
+  },
+  {
+   "name": "USB-C Cable 1m",
+   "sku": "ACC-002",
+   "category": "Accessories",
+   "quantity": 6,
+   "min_stock": 30,
+   "unit_cost": 179,
+   "supplier": "Trichy Accessories Depot"
+  },
+  {
+   "name": "Power Bank 20000mAh",
+   "sku": "ACC-003",
+   "category": "Accessories",
+   "quantity": 22,
+   "min_stock": 10,
+   "unit_cost": 1699,
+   "supplier": "Trichy Accessories Depot"
+  },
+  {
+   "name": "Smartwatch 1.8in",
+   "sku": "ACC-004",
+   "category": "Accessories",
+   "quantity": 17,
+   "min_stock": 8,
+   "unit_cost": 2499,
+   "supplier": "Trichy Accessories Depot"
+  },
+  {
+   "name": "HDMI Cable 2m",
+   "sku": "ACC-005",
+   "category": "Accessories",
+   "quantity": 45,
+   "min_stock": 15,
+   "unit_cost": 299,
+   "supplier": "Trichy Accessories Depot"
+  }
+ ]
+}
